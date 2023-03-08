@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["grep_lite",""],["main",""]]};
